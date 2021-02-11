@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hr-react1/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/hr-react1/static/js/main.4fe985e0.chunk.js",
+    "main.js.map": "/hr-react1/static/js/main.4fe985e0.chunk.js.map",
+    "runtime-main.js": "/hr-react1/static/js/runtime-main.ca422b75.js",
+    "runtime-main.js.map": "/hr-react1/static/js/runtime-main.ca422b75.js.map",
+    "static/js/2.19c99f37.chunk.js": "/hr-react1/static/js/2.19c99f37.chunk.js",
+    "static/js/2.19c99f37.chunk.js.map": "/hr-react1/static/js/2.19c99f37.chunk.js.map",
+    "static/js/3.7be4691a.chunk.js": "/hr-react1/static/js/3.7be4691a.chunk.js",
+    "static/js/3.7be4691a.chunk.js.map": "/hr-react1/static/js/3.7be4691a.chunk.js.map",
+    "index.html": "/hr-react1/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/hr-react1/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.19c99f37.chunk.js.LICENSE.txt": "/hr-react1/static/js/2.19c99f37.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hr-react1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca422b75.js",
+    "static/js/2.19c99f37.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4fe985e0.chunk.js"
+  ]
+}
