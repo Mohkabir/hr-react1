@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/hr-react1/static/css/main.f87e620d.chunk.css",
-    "main.js": "/hr-react1/static/js/main.09a1dbfd.chunk.js",
-    "main.js.map": "/hr-react1/static/js/main.09a1dbfd.chunk.js.map",
-    "runtime-main.js": "/hr-react1/static/js/runtime-main.ca422b75.js",
-    "runtime-main.js.map": "/hr-react1/static/js/runtime-main.ca422b75.js.map",
-    "static/js/2.19c99f37.chunk.js": "/hr-react1/static/js/2.19c99f37.chunk.js",
-    "static/js/2.19c99f37.chunk.js.map": "/hr-react1/static/js/2.19c99f37.chunk.js.map",
-    "static/js/3.7be4691a.chunk.js": "/hr-react1/static/js/3.7be4691a.chunk.js",
-    "static/js/3.7be4691a.chunk.js.map": "/hr-react1/static/js/3.7be4691a.chunk.js.map",
+    "main.css": "/hr-react1/static/css/main.2dac34e3.chunk.css",
+    "main.js": "/hr-react1/static/js/main.d1351c0b.chunk.js",
+    "main.js.map": "/hr-react1/static/js/main.d1351c0b.chunk.js.map",
+    "runtime-main.js": "/hr-react1/static/js/runtime-main.0f04ea69.js",
+    "runtime-main.js.map": "/hr-react1/static/js/runtime-main.0f04ea69.js.map",
+    "static/css/2.ec02d681.chunk.css": "/hr-react1/static/css/2.ec02d681.chunk.css",
+    "static/js/2.b42af3be.chunk.js": "/hr-react1/static/js/2.b42af3be.chunk.js",
+    "static/js/2.b42af3be.chunk.js.map": "/hr-react1/static/js/2.b42af3be.chunk.js.map",
+    "static/js/3.2c7c5fbb.chunk.js": "/hr-react1/static/js/3.2c7c5fbb.chunk.js",
+    "static/js/3.2c7c5fbb.chunk.js.map": "/hr-react1/static/js/3.2c7c5fbb.chunk.js.map",
     "index.html": "/hr-react1/index.html",
-    "static/css/main.f87e620d.chunk.css.map": "/hr-react1/static/css/main.f87e620d.chunk.css.map",
-    "static/js/2.19c99f37.chunk.js.LICENSE.txt": "/hr-react1/static/js/2.19c99f37.chunk.js.LICENSE.txt"
+    "static/css/2.ec02d681.chunk.css.map": "/hr-react1/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.2dac34e3.chunk.css.map": "/hr-react1/static/css/main.2dac34e3.chunk.css.map",
+    "static/js/2.b42af3be.chunk.js.LICENSE.txt": "/hr-react1/static/js/2.b42af3be.chunk.js.LICENSE.txt",
+    "static/media/mystyle.css": "/hr-react1/static/media/unsplash006.77ae7452.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca422b75.js",
-    "static/js/2.19c99f37.chunk.js",
-    "static/css/main.f87e620d.chunk.css",
-    "static/js/main.09a1dbfd.chunk.js"
+    "static/js/runtime-main.0f04ea69.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.b42af3be.chunk.js",
+    "static/css/main.2dac34e3.chunk.css",
+    "static/js/main.d1351c0b.chunk.js"
   ]
 }
