@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/hr-react1/static/css/main.2dac34e3.chunk.css",
-    "main.js": "/hr-react1/static/js/main.d1351c0b.chunk.js",
-    "main.js.map": "/hr-react1/static/js/main.d1351c0b.chunk.js.map",
-    "runtime-main.js": "/hr-react1/static/js/runtime-main.0f04ea69.js",
-    "runtime-main.js.map": "/hr-react1/static/js/runtime-main.0f04ea69.js.map",
+    "main.css": "/hr-react1/static/css/main.f7f65f55.chunk.css",
+    "main.js": "/hr-react1/static/js/main.084b42bf.chunk.js",
+    "main.js.map": "/hr-react1/static/js/main.084b42bf.chunk.js.map",
+    "runtime-main.js": "/hr-react1/static/js/runtime-main.fa3e998d.js",
+    "runtime-main.js.map": "/hr-react1/static/js/runtime-main.fa3e998d.js.map",
     "static/css/2.ec02d681.chunk.css": "/hr-react1/static/css/2.ec02d681.chunk.css",
-    "static/js/2.b42af3be.chunk.js": "/hr-react1/static/js/2.b42af3be.chunk.js",
-    "static/js/2.b42af3be.chunk.js.map": "/hr-react1/static/js/2.b42af3be.chunk.js.map",
-    "static/js/3.2c7c5fbb.chunk.js": "/hr-react1/static/js/3.2c7c5fbb.chunk.js",
-    "static/js/3.2c7c5fbb.chunk.js.map": "/hr-react1/static/js/3.2c7c5fbb.chunk.js.map",
+    "static/js/2.6631403f.chunk.js": "/hr-react1/static/js/2.6631403f.chunk.js",
+    "static/js/2.6631403f.chunk.js.map": "/hr-react1/static/js/2.6631403f.chunk.js.map",
+    "static/js/3.eff00134.chunk.js": "/hr-react1/static/js/3.eff00134.chunk.js",
+    "static/js/3.eff00134.chunk.js.map": "/hr-react1/static/js/3.eff00134.chunk.js.map",
     "index.html": "/hr-react1/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/hr-react1/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.2dac34e3.chunk.css.map": "/hr-react1/static/css/main.2dac34e3.chunk.css.map",
-    "static/js/2.b42af3be.chunk.js.LICENSE.txt": "/hr-react1/static/js/2.b42af3be.chunk.js.LICENSE.txt",
-    "static/media/mystyle.css": "/hr-react1/static/media/unsplash006.77ae7452.jpg"
+    "static/css/main.f7f65f55.chunk.css.map": "/hr-react1/static/css/main.f7f65f55.chunk.css.map",
+    "static/js/2.6631403f.chunk.js.LICENSE.txt": "/hr-react1/static/js/2.6631403f.chunk.js.LICENSE.txt",
+    "static/media/mystyle.css": "/hr-react1/static/media/unsplash006.77ae7452.jpg",
+    "static/media/unsplash01.6ee46687.jpg": "/hr-react1/static/media/unsplash01.6ee46687.jpg",
+    "static/media/unsplash02.c66e7f3f.jpg": "/hr-react1/static/media/unsplash02.c66e7f3f.jpg",
+    "static/media/unsplash03.9f6fefaa.jpg": "/hr-react1/static/media/unsplash03.9f6fefaa.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f04ea69.js",
+    "static/js/runtime-main.fa3e998d.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.b42af3be.chunk.js",
-    "static/css/main.2dac34e3.chunk.css",
-    "static/js/main.d1351c0b.chunk.js"
+    "static/js/2.6631403f.chunk.js",
+    "static/css/main.f7f65f55.chunk.css",
+    "static/js/main.084b42bf.chunk.js"
   ]
 }
